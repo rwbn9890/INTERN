@@ -1,0 +1,118 @@
+ Introduction Of FIELD (PPT)
+Introduction Of HTML (PPT)
+Structure Of Html Language
+<Html> <Head> <Title> <Body>
+
+
+Block Element Tag: <h1> <h2> <h3> <h4> <h5> <h6> <p>  <br/> <Hr/> 
+
+Inline Element Tag: <i> <em> <b> <strong> <big> <Small> <Sub> <Sup> <u> <Ins> <Del> <S> <Mark>
+
+
+// formatting tags
+
+
+<ul type="square, disc, circle" align="center">
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+
+<ol type="i"  start="5" align="center" >
+	<li></li>
+	<li></li>
+	<li></li>
+</ol>
+
+
+<dl  align="center" >
+	<dt></dt>
+	<dd></dd>
+</dl>
+
+- use of html entity (&nbsp;, &copy;)
+
+<img src="" alt="" title="" width="" height="" /> ;
+
+- <font> tag attribute property like color="" size="" face="";
+
+
+
+
+
+- marquee tag attribute property like direction="up, down, left, right", behavior="", scrollamount=""  
+
+behavior = scroll, alternate, slide,
+
+<a href="" target="_blank" ></a>
+
+
+
+
+<a href="" target="_blank" ></a>
+
+
+
+<img src="" alt="" title="" width="" height=""    /> ;
+
+
+
+- describe types of link (bookmark link, internal link & external link)
+
+
+- imge online/ offline linking;
+
+- marquee tag attribute property like direction="up, down, left, right", behavior="", scrollamount=""  
+
+behavior = scroll, alternate, slide,
+
+
+
+<input type="email" placeholder="Enter you email" />
+
+<button>submit</button>
+
+- <form> <select> <option> <textarea> <button>
+
+- <input type="text,email,password,number,color,file,date,range, redio,checkbox,time,tel,"/>
+	
+- - input field attribute like name, value, pl
+
+aceholder , required;
+
+<textarea></textarea>
+
+<select>
+	<option></option>
+	<option></option>
+</select>
+
+- button tag attribute like type="reset",type="submit"
+
+- required, selected attribute
+
+- input field attribute like name, value, placeholder
+
+- add tel type using pattern attribute
+- <input type="tel" placeholder="123-6578-34" pattern="[0-1]{3}-[4-7]{4}-[8-9]{2}"/>
+
+- ex. create registration form
+
+
+
+
+- <table> <tr> <th> <caption>
+
+- <thead> <tbody> <tfoot>
+
+- table tag attribute property like cellspacing="" border="" width="" height="" bgcolor="" 
+
+- td, th, tag attributes property like colspan, rowspan, bgcolor, align;
+
+
+
+- HTML & HTML5 Difference... (HTML 2/3/4/4.1)
+
+- HTML5 Tag: <header> <nav> <section> <footer>
+
+  
