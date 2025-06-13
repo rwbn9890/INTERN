@@ -1,0 +1,99 @@
+
+.fa-screwdriver-wrench{
+    background-color: whitesmoke;
+    padding: 10px;
+   color: gray;
+   border-radius: 50%;
+}
+.fa-screwdriver-wrench:hover{
+    color: black;
+    background-color: gainsboro;
+}
+
+.btn{
+    padding: 5px 8px ;
+    font-size:16px;
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.fa-bell{
+     background-color: whitesmoke;
+    padding: 5px;
+   color: gray;
+   border-radius: 50%;
+}
+
+.btn:hover{
+    border: 2px solid green;
+    color: green;
+    background-color: transparent;
+}
+
+
+
+.para{
+    font-size: 20px;
+    font-family:arial;
+
+    letter-spacing: 2px;
+    word-spacing: 86x;
+    line-height: 40px;
+    color: black;
+
+    text-decoration:underline;
+
+    text-indent: 500px;
+    text-align: center;
+
+    font-style: italic;
+
+    font-weight: 400;
+     text-transform: capitalize;
+     text-shadow: 2px 2px 4px #574c4c;
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+.list{
+    /* list-style:"\00AE"; */
+    list-style: "✅";
+}
+
+
+.head2{
+    font-family: "Press Start 2P", system-ui;
+}
+
+.para2{
+      font-family: "Tangerine", cursive;
+      font-size: 50px;
+}
+
+.title{
+     font-family: "Honk", system-ui;
+}
+
+.icons{
+    width: 10px;
+    height: 10px;
+    border: 5px groove black;
+}
+
+.icons:before{
+    content:"🔻"
+}
+
+.ri-settings-5-line{
+    font-size:50px;
+    color: orange;
+}
+
+.fa-sliders{
+    font-size: 60px;
+}
