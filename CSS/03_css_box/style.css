@@ -1,0 +1,97 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width:200px;
+    height: 200px;  
+    margin: 50px;
+}
+  
+
+
+.box1{
+
+    background-color: gainsboro;
+
+    /* margin: 50px; */
+
+    /* margin-top: 40px;
+    margin-right:30px;
+    margin-bottom: 20px;
+    margin-left: 10px; */
+
+    /* margin:40px 20px; */
+
+    /* margin:40px 30px 20px 10px */
+    /* margin-left: auto;
+    margin-right: auto; */
+
+    margin:auto;
+
+
+padding: 20px;
+
+/* padding: 10px 20px 30px 40px; */
+
+/* border-width: 10px;
+border-style: solid;
+border-color: orange; */
+
+
+border: 5px dotted green;
+
+}
+
+
+.box2{
+    margin: 40px;
+    /* border: 10px inset gray; */
+    border: 10px groove gray;
+    width: 200px;
+    height: 200px;
+    background-color: lightyellow;
+
+    /* border-radius: 200px; */
+
+    /* border-radius: 10px 20px 30px 40px;
+     */
+border-radius: 50%;
+}
+
+.box3{
+  border-radius:   0% 100% 18% 82% / 0% 81% 19% 100% ;
+  background-color: lightgreen;
+}
+
+
+.box4{
+ 
+    box-shadow: 0px 0px 5px gray;
+    border-radius: 10px;
+    font-family: arial;
+    letter-spacing: 2px;
+    padding: 5px;
+    height: auto;
+    text-align: center;
+
+
+}
+
+.box4 img{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px gray;
+}
+
+
+.box4 button{
+    margin-top: 20px;
+    background-color: green;
+    padding: 5px 8px;
+    color: white;
+    box-shadow: 0px 0px 4px gray;
+}
