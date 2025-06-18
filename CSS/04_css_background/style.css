@@ -1,0 +1,110 @@
+
+.box{
+    width:300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 30px;
+}
+
+.box1{
+    background-image: linear-gradient(208deg, orange, white, green)
+}
+
+.box2{
+    width: 400px;
+    background-image: radial-gradient(circle, green, white, orange);
+}
+
+.box3{
+    border-radius: 50%;
+   background-image: conic-gradient(orange, white, green, orange);
+}
+
+
+.box4{
+    background-image: url("https://assets.weforum.org/article/image/0ZUBmNNVLRCfn3NdU55nQ00UF64m2ObtcDS0grx02fA.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+.container{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid green;
+
+    /* background-blend-mode: overlay; */
+    text-align: center;
+     background-size: cover;
+     background-position:left bottom;
+
+     background-attachment: fixed;
+}
+.container h1{
+    color:white;
+    background-color: rgba(0, 0, 0, 0.425);
+    width: fit-content;
+    margin: auto;
+    margin-top: 400px;
+}
+
+
+.box5{
+    background: url("https://assets.weforum.org/article/image/0ZUBmNNVLRCfn3NdU55nQ00UF64m2ObtcDS0grx02fA.jpg"), #00000066;
+    
+    /* background-blend-mode: overlay; */
+    text-align: center;
+     background-size: cover;
+     background-position:left bottom;
+
+     background-attachment: fixed;
+    
+}
+
+.box6{
+    background: url("https://webneel.com/daily/sites/default/files/images/daily/08-2018/1-nature-photography-spring-season-mumtazshamsee.jpg"), #00000066;
+    
+    /* background-blend-mode: overlay; */
+    text-align: center;
+     background-size: cover;
+     background-position:left bottom;
+
+     background-attachment: fixed;
+}
+
+.box7{
+    background: url("https://5.imimg.com/data5/SELLER/Default/2023/7/330479541/GU/EA/XX/6461830/nature-wallpaper.jpg"), #00000066;
+
+    
+    /* background-blend-mode: overlay; */
+    text-align: center;
+     background-size: cover;
+     background-position:left bottom;
+
+     background-attachment: fixed;
+}
+
+.box8{
+    background: url("https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg"), #00000066;
+
+    
+    /* background-blend-mode: overlay; */
+    text-align: center;
+     background-size: cover;
+     background-position:left bottom;
+
+     background-attachment: fixed;
+}
+
+.bx{
+    color: white;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px ;
+    line-height: 27px;
+    backdrop-filter: blur(2px);
+    background-color: rgba(0, 0, 0, 0.158);
+}
+
