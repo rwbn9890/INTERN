@@ -1,0 +1,62 @@
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    
+}
+
+span{
+    font-size: 30px;
+}
+
+.relative{
+    background-color: pink;
+    position: relative;
+    top:-100px;
+    left: 500px;
+}
+
+
+.absolute{
+ background-color: orange;
+ position: absolute;
+ right: 30%;
+ bottom: 400px;
+}
+
+
+.fixed{
+ background-color: lightblue;
+ position: fixed;
+ left: 40%;
+ bottom: 30px;
+ 
+}
+
+.sticky{
+    position: sticky;
+    top:100px;
+    bottom: 10px;
+    background-color: lightgreen;
+}
+
+
+.container{
+    border: 2px solid gray;
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    position: relative;
+    overflow: auto;
+}
+
+.bx{
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+
+    position: absolute;
+    right: 0px;
+    bottom: 0;
+}
